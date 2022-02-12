@@ -110,20 +110,5 @@
     "trailingComma": "all",
     "singleQuote": true,
     "arrowParens": "always"
-  },
-  "optionalDependencies": {
-    "@napi/rmp-win32-x64-msvc": "1.0.0",
-    "@napi/rmp-darwin-x64": "1.0.0",
-    "@napi/rmp-linux-x64-gnu": "1.0.0",
-    "@napi/rmp-linux-x64-musl": "1.0.0",
-    "@napi/rmp-linux-arm64-gnu": "1.0.0",
-    "@napi/rmp-win32-ia32-msvc": "1.0.0",
-    "@napi/rmp-linux-arm-gnueabihf": "1.0.0",
-    "@napi/rmp-darwin-arm64": "1.0.0",
-    "@napi/rmp-android-arm64": "1.0.0",
-    "@napi/rmp-freebsd-x64": "1.0.0",
-    "@napi/rmp-linux-arm64-musl": "1.0.0",
-    "@napi/rmp-win32-arm64-msvc": "1.0.0",
-    "@napi/rmp-android-arm-eabi": "1.0.0"
   }
 }

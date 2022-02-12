@@ -192,4 +192,7 @@ if (!nativeBinding) {
   throw new Error(`Failed to load native binding`)
 }
 
-const {} = nativeBinding
+const { encode, decode } = nativeBinding
+
+module.exports.encode = encode
+module.exports.decode = decode

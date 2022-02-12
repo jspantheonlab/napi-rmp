@@ -1,11 +1,3 @@
-// function repeat(str: string, times: number) {
-//   return new Array(times + 1).join(str)
-// }
-
-// String.prototype.repeat = function (times) {
-//   return repeat(this, times)
-// }
-
 function array(length: number) {
   const arr = new Array(length)
   for (let i = 0; i < arr.length; i++) {

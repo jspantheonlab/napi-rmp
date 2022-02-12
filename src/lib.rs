@@ -1,3 +1,5 @@
+// #![deny(clippy::all)]
+
 use napi::bindgen_prelude::Buffer;
 use napi_derive::napi;
 use rmpv::encode::write_value;
