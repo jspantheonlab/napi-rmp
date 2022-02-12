@@ -6,4 +6,5 @@ export class ExternalObject<T> {
     [K: symbol]: T
   }
 }
-export function plus100(input: number): number
+export function encode(input: any): Buffer
+export function decode(input: Buffer): any

@@ -1,8 +1,29 @@
 import test from 'ava'
 
-import { plus100 } from '../index'
+import { encode, decode } from '../index'
 
-test('sync function from native code', (t) => {
-  const fixture = 42
-  t.is(plus100(fixture), fixture + 100)
+import { tiny, small, medium, large } from './data'
+
+test('tiny', (t) => {
+  const en = encode(tiny)
+  const de = decode(en)
+  t.deepEqual(tiny, de)
+})
+
+test('small', (t) => {
+  const en = encode(small)
+  const de = decode(en)
+  t.deepEqual(small, de)
+})
+
+test.skip('medium', (t) => {
+  const en = encode(medium)
+  const de = decode(en)
+  t.deepEqual(medium, de)
+})
+
+test.skip('large', (t) => {
+  const en = encode(large)
+  const de = decode(en)
+  t.deepEqual(large, de)
 })
