@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "@napi/rmp.darwin-x64.node",
+  "main": "napi.rmp.darwin-x64.node",
   "files": [
-    "@napi/rmp.darwin-x64.node"
+    "napi.rmp.darwin-x64.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [

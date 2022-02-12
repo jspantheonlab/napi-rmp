@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "@napi/rmp.linux-arm64-gnu.node",
+  "main": "napi.rmp.linux-arm64-gnu.node",
   "files": [
-    "@napi/rmp.linux-arm64-gnu.node"
+    "napi.rmp.linux-arm64-gnu.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [

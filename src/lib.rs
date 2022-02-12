@@ -1,5 +1,3 @@
-#![deny(clippy::all)]
-
 use napi::bindgen_prelude::Buffer;
 use napi_derive::napi;
 use rmpv::encode::write_value;
@@ -21,13 +19,12 @@ pub fn encode(input: Value) -> Buffer {
   let mut wr = vec![];
   let val = ValueR::Binary(to_vec(&input).unwrap());
   write_value(&mut wr, &val).unwrap();
-  let output = Buffer::from(wr);
-  output
+  Buffer::from(wr)
 }
 
 #[napi]
 pub fn decode(input: Buffer) -> Value {
   let buf = read_value(&mut &input[..]).unwrap();
-  let output = from_slice(&buf.as_slice().unwrap()).unwrap();
+  let output = from_slice(buf.as_slice().unwrap()).unwrap();
   output
 }

@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "@napi/rmp.android-arm64.node",
+  "main": "napi.rmp.android-arm64.node",
   "files": [
-    "@napi/rmp.android-arm64.node"
+    "napi.rmp.android-arm64.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [

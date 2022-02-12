@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "@napi/rmp.linux-arm-gnueabihf.node",
+  "main": "napi.rmp.linux-arm-gnueabihf.node",
   "files": [
-    "@napi/rmp.linux-arm-gnueabihf.node"
+    "napi.rmp.linux-arm-gnueabihf.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [
