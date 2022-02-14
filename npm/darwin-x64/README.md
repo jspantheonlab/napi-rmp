@@ -1,3 +1,3 @@
-# `@napi/rmp-darwin-x64`
+# `@napi-js/rmp-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `@napi/rmp`
+This is the **x86_64-apple-darwin** binary for `@napi-js/rmp`

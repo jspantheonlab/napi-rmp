@@ -1,3 +1,3 @@
-# `@napi/rmp-freebsd-x64`
+# `@napi-js/rmp-freebsd-x64`
 
-This is the **x86_64-unknown-freebsd** binary for `@napi/rmp`
+This is the **x86_64-unknown-freebsd** binary for `@napi-js/rmp`

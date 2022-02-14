@@ -1,3 +1,3 @@
-# `@napi/rmp-android-arm64`
+# `@napi-js/rmp-android-arm64`
 
-This is the **aarch64-linux-android** binary for `@napi/rmp`
+This is the **aarch64-linux-android** binary for `@napi-js/rmp`

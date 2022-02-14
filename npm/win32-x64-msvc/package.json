@@ -1,15 +1,15 @@
 {
   "name": "@napi-js/rmp-win32-x64-msvc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "os": [
     "win32"
   ],
   "cpu": [
     "x64"
   ],
-  "main": "napi.rmp.win32-x64-msvc.node",
+  "main": "napi-rmp.win32-x64-msvc.node",
   "files": [
-    "napi.rmp.win32-x64-msvc.node"
+    "napi-rmp.win32-x64-msvc.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [

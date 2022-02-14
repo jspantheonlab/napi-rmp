@@ -1,3 +1,3 @@
-# `@napi/rmp-linux-x64-musl`
+# `@napi-js/rmp-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `@napi/rmp`
+This is the **x86_64-unknown-linux-musl** binary for `@napi-js/rmp`

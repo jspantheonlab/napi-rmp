@@ -1,3 +1,3 @@
-# `@napi/rmp-linux-arm64-gnu`
+# `@napi-js/rmp-linux-arm64-gnu`
 
-This is the **aarch64-unknown-linux-gnu** binary for `@napi/rmp`
+This is the **aarch64-unknown-linux-gnu** binary for `@napi-js/rmp`

@@ -1,15 +1,15 @@
 {
   "name": "@napi-js/rmp-android-arm-eabi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "os": [
     "android"
   ],
   "cpu": [
     "arm"
   ],
-  "main": "napi.rmp.android-arm-eabi.node",
+  "main": "napi-rmp.android-arm-eabi.node",
   "files": [
-    "napi.rmp.android-arm-eabi.node"
+    "napi-rmp.android-arm-eabi.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [

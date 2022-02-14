@@ -1,15 +1,15 @@
 {
   "name": "@napi-js/rmp-freebsd-x64",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "os": [
     "freebsd"
   ],
   "cpu": [
     "x64"
   ],
-  "main": "napi.rmp.freebsd-x64.node",
+  "main": "napi-rmp.freebsd-x64.node",
   "files": [
-    "napi.rmp.freebsd-x64.node"
+    "napi-rmp.freebsd-x64.node"
   ],
   "description": "Template project for writing node package with napi-rs",
   "keywords": [
