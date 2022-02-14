@@ -1,5 +1,5 @@
 {
-  "name": "@napi/rmp-android-arm-eabi",
+  "name": "@jspantheonlab/rmp-android-arm-eabi",
   "version": "1.0.0",
   "os": [
     "android"

@@ -1,5 +1,5 @@
 {
-  "name": "@napi/rmp-freebsd-x64",
+  "name": "@jspantheonlab/rmp-freebsd-x64",
   "version": "1.0.0",
   "os": [
     "freebsd"
