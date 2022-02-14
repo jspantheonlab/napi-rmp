@@ -1,5 +1,5 @@
 {
-  "name": "@jspantheonlab/rmp-darwin-arm64",
+  "name": "@napi-js/rmp-darwin-arm64",
   "version": "1.0.0",
   "os": [
     "darwin"

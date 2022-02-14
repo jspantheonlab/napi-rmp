@@ -1,5 +1,5 @@
 {
-  "name": "@jspantheonlab/rmp-android-arm64",
+  "name": "@napi-js/rmp-android-arm64",
   "version": "1.0.0",
   "os": [
     "android"

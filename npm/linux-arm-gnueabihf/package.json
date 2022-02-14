@@ -1,5 +1,5 @@
 {
-  "name": "@jspantheonlab/rmp-linux-arm-gnueabihf",
+  "name": "@napi-js/rmp-linux-arm-gnueabihf",
   "version": "1.0.0",
   "os": [
     "linux"

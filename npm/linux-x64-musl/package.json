@@ -1,5 +1,5 @@
 {
-  "name": "@jspantheonlab/rmp-linux-x64-musl",
+  "name": "@napi-js/rmp-linux-x64-musl",
   "version": "1.0.0",
   "os": [
     "linux"
