@@ -102,7 +102,8 @@
     ],
     "environmentVariables": {
       "TS_NODE_PROJECT": "./tsconfig.json"
-    }
+    },
+    "timeout": "3m"
   },
   "prettier": {
     "printWidth": 120,
